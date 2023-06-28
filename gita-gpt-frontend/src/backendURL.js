@@ -1,1 +1,1 @@
-export const backendURL = "http://localhost:8080"
+export const backendURL = "https://weak-tan-drill-cuff.cyclic.app"
